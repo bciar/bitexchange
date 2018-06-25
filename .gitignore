@@ -1,0 +1,5 @@
+api/cfg
+auth/cfg.php
+admin/cfg.php
+cron/cfg.php
+frontend/cfg
